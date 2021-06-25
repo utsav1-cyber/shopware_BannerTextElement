@@ -1,0 +1,1 @@
+# shopware_Bay20BannerTextElement
