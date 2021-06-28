@@ -13,17 +13,6 @@ Ext.define('Shopware.apps.Emotion.view.components.BannerTextElement', {
      */
     alias: 'widget.emotion-components-banner',
 
-    /**
-     * Contains the translations of each input field which was created with the EmotionComponentInstaller.
-     * Use the name of the field as identifier
-     */
-    snippets: {
-        'text_interface_color': {
-            'fieldLabel': '{s name=interfaceColorFieldLabel}{/s}',
-            'supportText': '{s name=interfaceColorSupportText}{/s}'
-        }
-    },
-
      /**
       * The constructor method of each component.
       */
